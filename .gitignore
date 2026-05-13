@@ -1,0 +1,3 @@
+node_modules/
+mediconnect_vite/.env
+backend/.env
